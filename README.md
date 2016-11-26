@@ -1,5 +1,6 @@
 # graphCalc
-graphing calculator using angular
+graphing calculator using angular<br>
+Goal: Make a better online graphing calculator than desmos<br>
 
 Features:<br>
 multiple graphs<br>

@@ -10,3 +10,5 @@ combine graphs (ability to put multiple lines on one graph during set up, abilit
 Toggle size of graphs (thumbnail, medium, fillscreen, etc...)<br>
 Print mode<br>
 Edit graphs already created<br>
+3-d graphs<br>
+Curves<br>
